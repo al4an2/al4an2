@@ -1,7 +1,7 @@
 # Hello Internet
 My name is Alexandr Ignatev.
 
-I'm interested in all things Software Engineering, Machine Learning, and Data Science related.
+I'm interested in many things about Data Engineering, Software Engineering, and Machine Learning related.
 
 My Codewars Badge:
 
