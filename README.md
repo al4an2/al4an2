@@ -2,7 +2,7 @@
 
 Aleksandr Ignatev.
 
-🚀 Backedn Developer | Data Engineer | Python & Go Enthusiast | Cloud Computing Aficionado
+🚀 Backend Developer | Data Engineer | Python & Go Enthusiast | Cloud Computing Aficionado
 
 🔧 What I Do Best:
 
