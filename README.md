@@ -15,7 +15,7 @@ Aleksandr Ignatev.
 
 - Python: [news aggregator](https://github.com/al4an2/news_aggregator) - Uvicorn, Docker
 - Python: [todo list](https://github.com/al4an2/all4todo) - Docker, Flask
-- Go: (in_progress)
+- Go: [rss aggregator](https://github.com/al4an2/goRssAggregator) - in_progress
 
 💡 What Drives Me:
 A relentless pursuit of technical challenges, continuous learning, and the opportunity to innovate in cloud computing and data engineering.
