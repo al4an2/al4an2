@@ -13,7 +13,7 @@ Aleksandr Ignatev.
 
 🌐 Projects:
 
-- Python: [news aggregator](https://github.com/al4an2/news_aggregator) - Uvicorn, Docker
+- Python: [news aggregator](https://github.com/al4an2/news_aggregator) - Uvicorn, Docker, FastAPI
 - Python: [todo list](https://github.com/al4an2/all4todo) - Docker, Flask
 - Go: [rss aggregator](https://github.com/al4an2/goRssAggregator) - in_progress
 
