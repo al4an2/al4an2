@@ -17,6 +17,7 @@ Aleksandr Ignatev.
 - Python: [todo list](https://github.com/al4an2/all4todo) - Docker, Flask
 - Go: [rss aggregator](https://github.com/al4an2/goRssAggregator) - Goroutine, Goose (DB migration)
 - Go: [serverless down detector](https://github.com/al4an2/goDownDetector) - in progress
+- Go: [Telegram Bot with Lightweight LLM](https://github.com/al4an2/goTgBot) - in progress
 
 💡 What Drives Me:
 A relentless pursuit of technical challenges, continuous learning, and the opportunity to innovate in cloud computing and data engineering.
