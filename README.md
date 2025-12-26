@@ -11,6 +11,13 @@ Aleksandr Ignatev.
   - Analyzing data with SQL
   - Designing dashboards for key metrics and forecasts
 
+🌐 Big Projects:
+- [One-click Data Platform](https://gitlab.com/al4an2/signup_funnel):
+  -  Tech stack:
+  -  Python.
+  -  Airflow 3.1, dbt, Postgres, Fast API, Parquet, Superset.
+  -  Docker, Terraform, Gitlab CI, AWS/MINIO.
+
 🌐 Projects:
 
 - Python: [news aggregator](https://github.com/al4an2/news_aggregator) - Uvicorn, Docker, FastAPI
@@ -19,6 +26,9 @@ Aleksandr Ignatev.
 - Go: [serverless down detector](https://github.com/al4an2/goDownDetector) - in progress
 - Go: [Telegram Bot with Lightweight LLM](https://github.com/al4an2/goTgBot) - in progress
 
+🌐 Leetcode-repo:
+- https://github.com/al4an2/al4an_leetcode
+  
 💡 What Drives Me:
 A relentless pursuit of technical challenges, continuous learning, and the opportunity to innovate in cloud computing and data engineering.
 
