@@ -17,7 +17,7 @@ Aleksandr Ignatev,
 ## 🌐 Main Projects:
 - [One-click Data Platform](https://gitlab.com/al4an2/signup_funnel):
   -  Tech stack:
-  -  Python.
+  -  Python 3.12
   -  Airflow 3.1, dbt, Postgres, Fast API, Parquet, Superset.
   -  Docker, Terraform, Gitlab CI, AWS/MINIO.
 
