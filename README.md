@@ -2,16 +2,15 @@
 
 Aleksandr Ignatev,
 
-🚀 Software Engineer | Data Engineer | Python & Go | Cloud Computing 
+🚀 Software Engineer | Backend / Data Engineer | Python, Go, SQL, AWS
 
 ## 🔧 What I Do Best
 
-- Build **data-heavy systems and microservices** with scalability and correctness in mind  
-- Design and implement **data pipelines** (ETL/ELT) for batch and real-time workflows  
-- Work with **cloud infrastructure** (AWS, Terraform, Docker, CI/CD) for production-grade systems  
-- Solve **complex engineering problems**, including concurrency, race conditions, and SLA optimizations  
-- Model and query **data with SQL** for analytics and reporting  
-- Practice **algorithmic problem solving** (LeetCode) to improve system design and coding decisions
+- Backend **systems and microservices** with a focus on correctness, transactional safety, and scalable design
+- **Data-heavy services and pipelines** for operational workflows, analytics, and ML data preparation
+- **Cloud infrastructure** and delivery workflows using AWS, Terraform, Docker, and CI/CD
+- **Reliable systems** that must handle retries, concurrency, idempotency, and consistency guarantees
+- SQL-based **data models** and query patterns for reporting, product logic, and backend operations
 
 
 ## 🌐 Main Projects:
@@ -22,24 +21,24 @@ Aleksandr Ignatev,
   - Tests: unit / integration / API
     
 - [One-click Data Platform](https://gitlab.com/al4an2/signup_funnel):
-  -  Tech stack:
-  -  Python 3.12
-  -  Airflow 3.1, dbt, Postgres, Fast API, Parquet, Superset.
-  -  Docker, Terraform, Gitlab CI, AWS/MINIO.
+  - End-to-end data platform for collecting, transforming, and serving signup funnel data
+  - Includes orchestration, transformation, storage, API access, deploy to AWS and dashboarding
+  - Tech stack: Python 3.12, Airflow 3.1, dbt, Postgres, FastAPI, Parquet, Superset
+  - Infra: Docker, Terraform, GitLab CI, AWS/MinIO
 
 ## 🌐 Other projects:
 
 - Python: [news aggregator](https://github.com/al4an2/news_aggregator) - Uvicorn, Docker, FastAPI
 - Python: [todo list](https://github.com/al4an2/all4todo) - Docker, Flask
 - Go: [rss aggregator](https://github.com/al4an2/goRssAggregator) - Goroutine, Goose (DB migration)
-- Go: [serverless down detector](https://github.com/al4an2/goDownDetector) - in progress
-- Go: [Telegram Bot with Lightweight LLM](https://github.com/al4an2/goTgBot) - in progress
+- Go: [serverless down detector](https://github.com/al4an2/goDownDetector) 
+- Go: [Telegram Bot with Lightweight LLM](https://github.com/al4an2/goTgBot) 
 
 ## 🌐 Leetcode-repo with **solutions and explanations**:
 - https://github.com/al4an2/al4an_leetcode
   
 ## 💡 What Drives Me:
-A relentless pursuit of technical challenges, continuous learning, and the opportunity to innovate in cloud computing and data engineering.
+Complex engineering problems, especially where correctness, reliability, data flow, cloud infrastructure, and backend systems meet.
 
 My old Codewars Badge:
 
