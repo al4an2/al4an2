@@ -2,11 +2,11 @@
 
 Aleksandr Ignatev,
 
-🚀 Software Engineer | Backend / Data Engineer | Python, Go, SQL, AWS
+🚀 Backend / Data Engineer | Python, Go, SQL, AWS
 
 ## 🔧 What I Do Best
 
-- Backend **systems and microservices** with a focus on correctness, transactional safety, and scalable design
+- **Backend systems** with a focus on correctness, transactional safety, and scalable design
 - **Data-heavy services and pipelines** for operational workflows, analytics, and ML data preparation
 - **Cloud infrastructure** and delivery workflows using AWS, Terraform, Docker, and CI/CD
 - **Reliable systems** that must handle retries, concurrency, idempotency, and consistency guarantees
@@ -34,8 +34,8 @@ Aleksandr Ignatev,
 - Go: [serverless down detector](https://github.com/al4an2/goDownDetector) 
 - Go: [Telegram Bot with Lightweight LLM](https://github.com/al4an2/goTgBot) 
 
-## 🌐 Leetcode-repo with **solutions and explanations**:
-- https://github.com/al4an2/al4an_leetcode
+## 🌐 Leetcode-repo:
+- [Solutions and explanations](https://github.com/al4an2/al4an_leetcode)
   
 ## 💡 What Drives Me:
 Complex engineering problems, especially where correctness, reliability, data flow, cloud infrastructure, and backend systems meet.
