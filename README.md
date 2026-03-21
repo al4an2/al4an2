@@ -15,6 +15,12 @@ Aleksandr Ignatev,
 
 
 ## 🌐 Main Projects:
+- [Payments Ledger Engine](https://github.com/al4an2/payments-ledger-engine)
+  - Production-like payments backend with idempotency, append-only ledger, optimistic versioning, and version-aware caching
+  - Tech stack: Python 3.12, FastAPI, SQLAlchemy, Postgres, Alembic, Docker
+  - Cache evolution: `VersionedMapCache -> SLRU -> WTinyLFU`
+  - Tests: unit / integration / API
+    
 - [One-click Data Platform](https://gitlab.com/al4an2/signup_funnel):
   -  Tech stack:
   -  Python 3.12
